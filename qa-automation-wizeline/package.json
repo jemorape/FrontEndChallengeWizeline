@@ -1,0 +1,16 @@
+{
+  "name": "wizeline-academy-ws",
+  "version": "1.0.0",
+  "description": "swagLabs",
+  "main": "index.js",
+  "scripts": {
+    "testBrowser": "testcafe chrome,firefox src/swaglabs/test/bonus.test.js login.tests.js --reporter html:report/file.html"
+  },
+  "author": "EduardoMora",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.8.2",
+    "testcafe-reporter-html": "^1.4.6",
+    "testcafe-reporter-prometheus": "^1.0.2"
+  }
+}
