@@ -2,8 +2,8 @@
 Challenge with testcafe
 
 For the bonus Challenge
-1. I create the bonus.test.js Tests
-  Contains:
+1. I create the bonus.test.js Tests\
+  Contains:\
   1.1 Use a TestCafe Roles.
   1.2 Data provider for the test data (dataProvider folder with data.json file).
   1.3 Test data reporter
